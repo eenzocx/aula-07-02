@@ -7,3 +7,26 @@ color: rgb(255, 0, 153);
 
     color: crimson;
 }
+ body {
+    background-image: url(artworks-kCY1zpsyRXsGGRfY-p15f2w-t500x500.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: aquamarine;
+    background-position: 100px;
+    background-attachment: scroll;
+
+ }
+
+  .corsim_rgba {
+color: rgba(159, 45, 227, 0.5);
+background-color: cadetblue;
+  }
+
+  #bloquinho {
+    z-index: 10;
+    position: absolute;
+    height: 200px;
+    width: 300px;
+    background-image: -moz-radial-gradient(to right, purple, white);
+  }
+
