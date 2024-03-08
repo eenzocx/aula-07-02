@@ -23,10 +23,9 @@ background-color: cadetblue;
   }
 
   #bloquinho {
-    z-index: 10;
     position: absolute;
     height: 200px;
     width: 300px;
-    background-image: -moz-radial-gradient(to right, purple, white);
+    background-image: linear-gradient(to right, purple, white);
   }
 
